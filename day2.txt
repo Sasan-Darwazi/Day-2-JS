@@ -1,0 +1,50 @@
+So, let's see what the browser main components are:
+
+>.User Inerface:This includes the address bar, the back and forward buttons, bookmarking menu, etc. In essence, this is every part of the browser display.
+
+>.Browser Engine: it handle the interactions between the user interface and the rendering engine.
+
+>.Rendering Engine:it's responsible for displaying the web page. The rendering engine parses the HTML and the CSS and display the parsed content on the screen
+
+>.Networking:This component is responsible for managing network calls using standard protocols like HTTTP or FTP. it also looks after security issues associated with internet communication.
+These are network calls such as XHR requests, made by using different implemention for the diffreernt platforms, wich are behind a platform-independent interface.
+
+>.UI-backend: it's used fro drawing the core widgets such as checkboxes and windows.
+it's mainly used for drawing basic widgets (window and cobmo boxes).
+
+
+>.JS-Engine: this where javaScript code get executed.
+
+>.Data-Persistence: your app might need to store all data locally. The supported types of stroage mechanisms include LocalStorage, indexDB, WebSQL and FileSystem.
+
+
+Function:A function is a block of reusable codes written to perform a specific task.
+
+
+Parameter:A parameter is a named variable passed into a function.
+Parameter variables are used to import argument into functions.
+
+Anonymous Function:It is a function that does not have any name associated with it.
+In ananymous function is JavaScript, we use only the function keywords without the function name.
+
+Array: Array are used to store multiple values in a single variable.
+
+Loose OPT ==:it just focus on the type of the value.
+
+Strict OPT ===: it see both, type and value;
+
+Type Conversion: it's used to change one type to another type.
+
+We Consider Three things in our code.
+.Correctness
+.Design
+
+.Style
+
+
+Loops: To run something again and again.
+
+
+
+
+
